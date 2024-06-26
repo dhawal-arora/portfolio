@@ -42,7 +42,7 @@ function help(){
   </tr>\
   <tr>\
     <td>rickroll</td>\
-    <td>Get Rickrolled</td>\
+    <td>Use for a surprise.</td>\
   </tr></table>";
 }
 
