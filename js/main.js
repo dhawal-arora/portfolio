@@ -9,14 +9,6 @@ function help(){
     <td>Learn more about my background and interests.</td>\
   </tr>\
   <tr>\
-    <td>contact</td>\
-    <td>Find out how to reach me.</td>\
-  </tr>\
-  <tr>\
-    <td>links</td>\
-    <td>Explore recommended links.</td>\
-  </tr>\
-  <tr>\
     <td>skills</td>\
     <td>Discover my proficiency in various areas.</td>\
   </tr>\
@@ -39,6 +31,14 @@ function help(){
   <tr>\
     <td>extracurricular</td>\
     <td>Learn about my hobbies and interests.</td>\
+  </tr>\
+  <tr>\
+    <td>links</td>\
+    <td>Explore recommended links.</td>\
+  </tr>\
+  <tr>\
+    <td>contact</td>\
+    <td>Find out how to reach me.</td>\
   </tr>\
   <tr>\
     <td>rickroll</td>\
