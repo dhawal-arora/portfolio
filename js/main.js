@@ -121,7 +121,7 @@ function projects() {
   <tr><td><a href=\"https://github.com/dhawal-arora/Celebelum-AI\" target=\"_blank\">Celebelum</a></td><td>AI voice recognition displayed to 300+ students.</td></tr>\
   <tr><td><a href=\"https://github.com/dhawal-arora/Patzer\" target=\"_blank\">Patzer</a></td><td>Displaying chess analytics to 200,000+ people.</td></tr>\
   <tr><td>RUOnTime</td><td>Hackathon winning daily scheduler with bus and class location tracking.</td></tr>\
-  <tr><td>DietRX</td><td>AI tool to suggest what to eat from what dining hall based on health requirements</td></tr>\
+  <tr><td>DietRX</td><td>AI tool to suggest what to eat from what dining hall based on health requirements.</td></tr>\
   </table>";
 }
 
