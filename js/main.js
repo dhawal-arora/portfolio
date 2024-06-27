@@ -137,14 +137,14 @@ function awards() {
 function creativity() {
   return "<h2><span style=\"color:#f0c674;\">Creative Experience:</span></h2><table>\
   <tr><td>AV Specialist</td><td>Rutgers Student Affairs (Feb 2023 - Present)</td></tr>\
-  <tr><td>Social Media Manager (2 Million+ Audience)</td><td>All Platforms (Oct 2023 - May 2024)</td></tr>\
+  <tr><td>Social Media Manager (2 Million+ Audience)</td><td>All Platforms (Oct 2023 - Present)</td></tr>\
   <tr><td>Cinematography Lead</td><td>Rutgers GSE (Nov 2023 - Jan 2024)</td></tr>\
   </table>";
 }
 
 function extracurricular() {
   return "<h2><span style=\"color:#8abeb7;\">Extracurricular:</span></h2><table>\
-  <tr><td>Rutgers Blockchain Hub</td><td>E-board, presenting research and developments to 300+ students</td></tr>\
+  <tr><td>Rutgers Blockchain Hub</td><td>E-board, presenting research and developments to 300+ students.</td></tr>\
   <tr><td><a href=\"https://www.youtube.com/@dhawalchess\" target=\"_blank\">Dhawalplaysd4</a></td><td>YouTube Channel - 300,000+ views</td></tr>\
   <tr><td><a href=\"https://podcasters.spotify.com/pod/show/thed4podcast\" target=\"_blank\">The D4 Podcast</a></td><td>All Platforms - 2000+ listeners</td></tr>\
   <tr><td>Rated Chess Player</td><td>FIDE - International Chess Federation</td></tr>\
