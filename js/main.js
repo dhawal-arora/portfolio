@@ -127,7 +127,7 @@ function projects() {
 
 
 function awards() {
-  return "<h2><span style=\"color:#cc6666;\">Awards</span></h2><table>\
+  return "<h2><span style=\"color:#cc6666;\">Awards:</span></h2><table>\
   <tr><td>Rutgers Leadership Fellowship Awardee</td></tr>\
   <tr><td>HackRU Best Hack Awardee</td></tr>\
   <tr><td>Employee Recognition Award x2</td></tr>\
